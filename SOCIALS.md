@@ -88,5 +88,7 @@ Instagram Query: https://dumpor.com/ | https://gramhir.com/ | https://www.picuki
 ### Sock:
 
 * A collection of neural network-generated stylegan-2 human faces that have had their hair removed. These can be used to create realistic photos of non-existent people more easily and quickly: [Git_Repo](https://github.com/oneThousand1000/non-hair-FFHQ)
+* This X Does Not Exist: https://thisxdoesnotexist.com/
 * This Person does not exist: http://thispersondoesnotexist.com
-* * Fakes Generator for all Socials: [Fake_Info](https://fakeinfo.net/)
+* Ai Generated Selfies: https://generated.photos/
+* Fakes Generator for all Socials: [Fake_Info](https://fakeinfo.net/)
