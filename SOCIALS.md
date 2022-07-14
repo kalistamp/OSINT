@@ -5,7 +5,7 @@
 
 ### Telegram :
 
-*  Comprehensive collections of tools for gathering information on Telegram [Ultimate_List](https://start.me/p/YaOYnJ/telegram-osint)
+*  Comprehensive collections of tools for gathering information on Telegram: [Ultimate_List](https://start.me/p/YaOYnJ/telegram-osint)
 *  Collections of tools for gathering information on telegram accounts: [Telegram](https://start.me/p/YaOYnJ/telegram-osint)
 *  A search engine to find highly specialised chatbots for all occasions: [BOTS](https://chatbottle.co/bots/telegram)
 
@@ -67,6 +67,14 @@ If you want to translate an individual message, you can also use translation bot
 (and once again, a reminder about  built-in translation in Telegram) 
 
 ```
+
+* * *
+
+### Instagram: 
+
+Instagram Query: https://dumpor.com/ | https://gramhir.com/ | https://www.picuki.com/ | https://www.pixwox.com/
+
+
 
 * * *
 
