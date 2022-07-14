@@ -2,6 +2,10 @@
 ### Ultimate Lists:
 
 * https://start.me/p/DPYPMz/the-ultimate-osint-collection - Ultimate OSINT
+* https://cipher387.github.io/osint_stuff_tool_collection/ - Cyb_Detective 
+* https://github.com/OhShINT/ohshint.gitbook.io - OhShINT
+* https://osintframework.com/ - Framework
+* https://github.com/HOPain?tab=repositories - OSINT Search_Tools
 
 * * *
 
@@ -13,6 +17,8 @@
 * * * 
 
 ### Others :
+
+* Eventbrite OSINT Meetings: [Eventbrite](https://www.eventbrite.com/d/online/free--events/osint/?page=1)
 
 * Cryptocurrency Osint Toolkit - Blockchain Explorers; - Transaction Visualisation; - Block Analysis; - Wallets identification; - Articles and webinars : [Start.List](https://start.me/p/ek4rxK/cryptocurrency-osint)
 
