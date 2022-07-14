@@ -6,6 +6,7 @@
 * https://github.com/OhShINT/ohshint.gitbook.io - OhShINT
 * https://osintframework.com/ - Framework
 * https://github.com/HOPain?tab=repositories - OSINT Search_Tools
+* https://awesomeopensource.com/projects/osint - Awesome OSINT Projects
 
 * * *
 
