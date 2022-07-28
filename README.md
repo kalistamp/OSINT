@@ -32,6 +32,8 @@
 
 * Search engines for file-sharing sites, torrents, FTP servers, IRC channels, and other file-sharing sites: [filesharing search](https://github.com/cipher387/osint_stuff_tool_collection#filesharingsearchengines)
 
+* Email List and Reviews: https://digdeeper.neocities.org/ghost/email.html
+
 * * *
 
 ### Notes: 
