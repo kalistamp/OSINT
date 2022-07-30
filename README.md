@@ -5,6 +5,7 @@
 * https://cipher387.github.io/osint_stuff_tool_collection/ - Cyb_Detective 
 * https://metaosint.github.io/ - Large search engine of osint tools 
 * https://github.com/OhShINT/ohshint.gitbook.io - OhShINT
+* https://wannabe1337.xyz/ - WannaBe1337
 * https://osintframework.com/ - Framework
 * https://github.com/birdbee44/Resources - Utica College Cyber Club Resources List
 * https://github.com/HOPain?tab=repositories - OSINT Search_Tools
