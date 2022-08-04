@@ -13,6 +13,7 @@
 ### VIDEO:
 
 * Loom - nifty little tool that lets you record your screen and yourself at the same time, so you can explain things just the way you want to: [Loom](https://www.loom.com/screen-recorder)
+* Have trouble taking notes in meetings? Otter records your meetings and automatically transcribes them to text: [Otter](https://otter.ai/)
 
 * * * 
 
