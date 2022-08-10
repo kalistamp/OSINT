@@ -6,4 +6,24 @@
 
 * * * 
 
+### Send Anonymous Text Messages (Only one a day Free)
 
+``` sudo git clone https://github.com/machine1337/fake-sms ```
+
+``` cd fake-sms ```
+
+``` sudo chmod 755 run.sh  ```
+
+``` sudo ./run.sh ```
+
+* When we open "Fake-SMS" Repo, we can see it is a simple BASH script. When we scroll down to lines 119-120, we can see a curl command to textbelt.com. Apparently, this script simply uses this SMS site to send text messages.
+
+Use the curl command to send SMS: 
+
+* First, we need to open an account at textbelt.com. When we open an account, we can send one fake SMS message per day or we can purchase credits and get an API key to use their service.
+
+* Once you have an API from your account we can generate our own text messages without the Fake-SMS script directly by creating a curl command in Linux 
+
+``` curl -X POST https://textbelt.com/text --data-urlencode phone='<ENTER FULL PHONE NUMER>' --data-urlencode= message='<ENTER MESSAGE>' -d key=<YOU API KEY> ```
+
+* This service responds with a message detailing the success of sending my message and the number of messages left in my quota.
