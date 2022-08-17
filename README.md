@@ -22,6 +22,8 @@
 
 ### Others :
 
+* 10 Minute Mail - Create a temporary, disposable email address for those times you want to subscribe to a site but you don’t want the future spam: https://10minutemail.com/ 
+
 * Answer The Public - Review Questions on any topic you search: https://answerthepublic.com/
 
 * Search All: https://www.searchall.net/ | https://restoreprivacy.com/private-search-engine/ | https://zeronet.io/
