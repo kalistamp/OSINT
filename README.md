@@ -34,6 +34,8 @@
 
 * [Forensic Toolkit](https://start.me/p/q6mw4Q/forensics)
 
+* FILE_Tiny WOW - A free, easy to use, all-in-one tool to help solve all of your file problems: https://tinywow.com/
+
 * Search engines for file-sharing sites, torrents, FTP servers, IRC channels, and other file-sharing sites: [filesharing search](https://github.com/cipher387/osint_stuff_tool_collection#filesharingsearchengines)
 
 * Email List and Reviews: https://digdeeper.neocities.org/ghost/email.html
