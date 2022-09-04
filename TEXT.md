@@ -27,3 +27,5 @@ Use the curl command to send SMS:
 ``` curl -X POST https://textbelt.com/text --data-urlencode phone='<ENTER FULL PHONE NUMER>' --data-urlencode= message='<ENTER MESSAGE>' -d key=<YOU API KEY> ```
 
 * This service responds with a message detailing the success of sending my message and the number of messages left in my quota.
+
+[SOURCE](https://www.hackers-arise.com/post/social-engineering-attacks-creating-a-fake-sms-message)
