@@ -22,4 +22,3 @@
 
 * V_Stat Get visitors, Traffic, Advertisements, and Keywords from any Site: https://vstat.info/
 
-*
