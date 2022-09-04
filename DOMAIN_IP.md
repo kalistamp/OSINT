@@ -1,4 +1,15 @@
 
+
+### Go to subdomain enumeration tools:
+
+* Subfinder -> 
+* Amass -> 
+* dnsgen -> 
+* massdns -> 
+* KALIDOMAINS -> https://github.com/kalistamp/Projects_py/tree/main/SUBDOMAIN
+
+* * *
+
 * Find the hosting neighbors for a specific web site or hostname (IP Neighbors): https://www.ip-neighbors.com/
 
 *  Find similar domains and all DNS / WHOIS on a target: https://dmns.app/
