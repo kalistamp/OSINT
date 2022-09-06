@@ -3,6 +3,12 @@
 
 * * *
 
+### Username Search:
+
+* Marple - Collect links to profiles by username through 10+ search engines: [MARPLE](https://github.com/soxoj/marple)
+
+* * *
+
 ### Telegram :
 
 *  Comprehensive collections of tools for gathering information on Telegram: [Ultimate_List](https://start.me/p/YaOYnJ/telegram-osint)
