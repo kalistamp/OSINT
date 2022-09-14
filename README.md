@@ -2,7 +2,7 @@
 ### Ultimate Lists:
 
 * https://start.me/p/DPYPMz/the-ultimate-osint-collection - Ultimate OSINT
-* https://cipher387.github.io/osint_stuff_tool_collection/ - Cyb_Detective 
+* https://github.com/cipher387/osint_stuff_tool_collection - Cyb_Detective 
 * https://metaosint.github.io/ - Large search engine of osint tools 
 * https://github.com/OhShINT/ohshint.gitbook.io - OhShINT
 * https://wannabe1337.xyz/ - WannaBe1337
