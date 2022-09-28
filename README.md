@@ -23,6 +23,7 @@
 ### Others :
 
 * FILESHARE_Snap Drop - Similar to Airdrop, except you can share images, videos, and files across all devices that are on the same network: https://snapdrop.net 
+* https://pomf.cat/
 * https://temp.sh/
 * PAYWALL_12ft Ladder - will bypass any paywall by showing you the cached, unpaywalled version of the page: https://12ft.io/
 * 10 Minute Mail - Create a temporary, disposable email address for those times you want to subscribe to a site but you don’t want the future spam: https://10minutemail.com/ 
