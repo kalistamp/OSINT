@@ -12,7 +12,9 @@
 
 * Find the hosting neighbors for a specific web site or hostname (IP Neighbors): https://www.ip-neighbors.com/
 
-*  Find similar domains and all DNS / WHOIS on a target: https://dmns.app/
+*  Find similar domains and all DNS / WHOIS on a target: 
+*  https://dmns.app/
+*  https://dnsdumpster.com/
 
 * Paste the link to the site and the bot finds the sitemap and any emails posted: [Complete Email Scraper](https://freemailscraper.herokuapp.com/search-complete-website?link=https%3A%2F%2Ftherecap.org%2Fdatabases%2F)
 
