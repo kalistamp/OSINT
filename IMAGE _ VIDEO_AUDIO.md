@@ -2,6 +2,7 @@
 
 ### IMAGE:
 
+* Upload and Share Screen Captures: https://prnt.sc/
 * EDIT_Pixlr - Pixlr is an easy-to-use tool that doesn’t require installation.  You can edit photos and create designs right in your browser: https://pixlr.com/
 * An awesome website that lets you download high quality stock images for all your work and personal projects: [Pexels](https://www.pexels.com/)
 * Unsplash - Free and unlimited images to use anywhere: https://unsplash.com/
